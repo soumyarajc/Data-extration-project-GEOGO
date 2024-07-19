@@ -6,5 +6,5 @@ To develop an application in Python that can compare a MS-Word Template file and
 The application need not be an Web App. Just build as a normal command line tool initially.
 The usage can be as follows: convert.py --template <your_template_file.docx> --document <your_doc_from_template.docx> --out output.csv.
 
-
+The two files I was to use to achieve the above specifications are also attached in this repository as ".docx" files 
 
